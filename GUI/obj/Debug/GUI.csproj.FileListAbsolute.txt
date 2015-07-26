@@ -1,0 +1,21 @@
+D:\Program Files\三维校园立体相册\GUI\GUI\obj\Debug\ResolveAssemblyReference.cache
+D:\Program Files\三维校园立体相册\GUI\GUI\obj\Debug\GUI.Form1.resources
+D:\Program Files\三维校园立体相册\GUI\GUI\obj\Debug\GUI.Form2.resources
+D:\Program Files\三维校园立体相册\GUI\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\Program Files\三维校园立体相册\GUI\GUI\obj\Debug\GenerateResource.read.1.tlog
+D:\Program Files\三维校园立体相册\GUI\GUI\obj\Debug\GenerateResource.write.1.tlog
+D:\Program Files\三维校园立体相册\GUI\GUI\bin\Debug\OpenCvSharp.Blob.dll
+D:\Program Files\三维校园立体相册\GUI\GUI\bin\Debug\OpenCvSharp.CPlusPlus.dll
+D:\Program Files\三维校园立体相册\GUI\GUI\bin\Debug\OpenCvSharp.DebuggerVisualizers.dll
+D:\Program Files\三维校园立体相册\GUI\GUI\bin\Debug\OpenCvSharp.dll
+D:\Program Files\三维校园立体相册\GUI\GUI\bin\Debug\OpenCvSharp.Extensions.dll
+D:\Program Files\三维校园立体相册\GUI\GUI\bin\Debug\OpenCvSharp.MachineLearning.dll
+D:\Program Files\三维校园立体相册\GUI\GUI\bin\Debug\OpenCvSharp.UserInterface.dll
+D:\Program Files\三维校园立体相册\GUI\GUI\obj\Debug\GUI.Form3.resources
+D:\Program Files\三维校园立体相册\GUI\GUI\obj\Debug\GUI.Form4.resources
+D:\Program Files\三维校园立体相册\GUI\GUI\obj\Debug\GUI.Form5.resources
+D:\Program Files\三维校园立体相册\GUI\GUI\bin\Debug\3D Album.exe.config
+D:\Program Files\三维校园立体相册\GUI\GUI\bin\Debug\3D Album.exe
+D:\Program Files\三维校园立体相册\GUI\GUI\bin\Debug\3D Album.pdb
+D:\Program Files\三维校园立体相册\GUI\GUI\obj\Debug\3D Album.exe
+D:\Program Files\三维校园立体相册\GUI\GUI\obj\Debug\3D Album.pdb

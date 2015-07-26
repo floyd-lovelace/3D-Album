@@ -1,0 +1,11 @@
+D:\Program Files\三维校园立体相册\GUI\GUI\bin\Debug\GUI.exe
+D:\Program Files\三维校园立体相册\GUI\GUI\bin\Debug\GUI.pdb
+D:\Program Files\三维校园立体相册\GUI\GUI\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Program Files\三维校园立体相册\GUI\GUI\obj\x86\Debug\GUI.Properties.Resources.resources
+D:\Program Files\三维校园立体相册\GUI\GUI\obj\x86\Debug\GUI.exe
+D:\Program Files\三维校园立体相册\GUI\GUI\obj\x86\Debug\GUI.pdb
+D:\Program Files\三维校园立体相册\GUI\GUI\bin\Debug\GUI.exe.config
+D:\Program Files\三维校园立体相册\GUI\GUI\obj\x86\Debug\GUI.Form1.resources
+D:\Program Files\三维校园立体相册\GUI\GUI\obj\x86\Debug\GUI.Form2.resources
+D:\Program Files\三维校园立体相册\GUI\GUI\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Program Files\三维校园立体相册\GUI\GUI\obj\x86\Debug\GenerateResource.write.1.tlog
